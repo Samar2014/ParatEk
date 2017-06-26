@@ -1,0 +1,12 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is DAC9-F5FE
+
+ Directory of C:\My_Learnings\June_2017\C_26_June\Java
+
+26-Jun-17  09:44 PM    <DIR>          .
+26-Jun-17  09:44 PM    <DIR>          ..
+26-Jun-17  09:44 PM                 0 temp.txt
+26-Jun-17  09:38 PM               678 tooday.class
+26-Jun-17  09:35 PM               150 tooday.java
+               3 File(s)            828 bytes
+               2 Dir(s)  346,901,733,376 bytes free
